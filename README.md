@@ -1,7 +1,7 @@
 <table>
  <tr>
   <td>
-   <img src="https://avatars.githubusercontent.com/u/1001913?v=4">
+   <img src="https://avatars.githubusercontent.com/u/8307156?v=4">
   </td>
   <td colspan="3">
    <h1 align="center">Namaste 🙏, I'm Arif Rathod</h1>
@@ -27,7 +27,7 @@
   
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arifrathod7)&nbsp;[![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)](https://join.skype.com/invite/ws4xRKGnS8Mi)&nbsp;[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/4098392/arif-rathod?tab=profile)
    
- <a href="https://stackexchange.com/users/5112099/arif-rathod"><img src="https://stackexchange.com/users/flair/7792223.png" width="208" height="58" alt="profile for Arif Rathod on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Arif Rathod on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>&nbsp;
+ <a href="https://stackexchange.com/users/4098392/arif-rathod"><img src="https://stackexchange.com/users/flair/7792223.png" width="208" height="58" alt="profile for Arif Rathod on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Arif Rathod on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>&nbsp;
   </td>
  </tr>
  <tr>
@@ -88,9 +88,6 @@
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
- </td>
- <td colspan="2">
-  <a href="https://www.codewars.com/users/Arifrathod"><img src="https://www.codewars.com/users/Arifrathod/badges/large" width="300" height="58" alt="profile for ARIF RATHOD on Code wars"></a> <a href="https://stackexchange.com/users/7792223"><img src="https://stackexchange.com/users/flair/7792223.png" width="208" height="58" alt="profile for ARIF RATHOD on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Arif Rathod on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
  </td>
 </tr>
 </table>
