@@ -5,7 +5,7 @@
   </td>
   <td colspan="3">
    <h1 align="center">Hi, I'm Arif Rathod</h1>
-   <h3 align="center"> 🔶 SENIOR MEAN Stack Developer 🔶</h3>
+   <h3 align="center"> 🔶 Sr. Full Stack Developer 🔶</h3>
   </td>
   </tr>
  <tr>
@@ -16,9 +16,6 @@
 - 👨‍💻 Expert in **NodeJS, Angular, MongoDB, PostgreSQL, AWS, Redis**
 - ⛳ Intermediate in **Docker, CI-CD, ReactJS, VueJS** 
 - 📖  I’m currently learning **NextJS, Project management**
-  </td>
-  <td colspan="2">
-   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arifrathod&show_icons=true&locale=en&layout=compact" alt="Arifrathod"/></p>
   </td>
  </tr>
  <tr>
